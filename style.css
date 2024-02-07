@@ -1,0 +1,9 @@
+h1 {
+  background-color: rgb(255, 0, 111);
+  font-weight: bolder;
+  text-align: center;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+}
